@@ -28,7 +28,7 @@ Um intervalo i é anterior a um intervalo j se  *f<sub>i</sub> < s<sub>j</sub>*.
 
 ### Problema do escalonamento de intervalos
 
-Dada uma coleção S de intervalos, encontrar uma subcoleção disjunta máxima de S.
+Dada uma coleção S de intervalos, encontrar uma [subcoleção disjunta máxima](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/intervalos.html) de S.
 
 Uma subcoleção disjunta X de S é *máxima* se não existe outra maior.  Em outras palavras, se não existe subcoleção disjunta *X′* de *S* tal que *|X′| > |X|*.
 
